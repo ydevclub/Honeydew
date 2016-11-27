@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honeydew", "Honeydew\Honeydew.csproj", "{2CDC6B71-B6B3-4A95-96B5-036514BF14DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honeydew.Tests", "Honeydew.Tests\Honeydew.Tests.csproj", "{A76C7924-C1B9-400A-B797-2654BDE303EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDC6B71-B6B3-4A95-96B5-036514BF14DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDC6B71-B6B3-4A95-96B5-036514BF14DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDC6B71-B6B3-4A95-96B5-036514BF14DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDC6B71-B6B3-4A95-96B5-036514BF14DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76C7924-C1B9-400A-B797-2654BDE303EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C7924-C1B9-400A-B797-2654BDE303EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C7924-C1B9-400A-B797-2654BDE303EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C7924-C1B9-400A-B797-2654BDE303EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
